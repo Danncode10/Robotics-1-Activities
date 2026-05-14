@@ -3,7 +3,7 @@
 ## Components
 - Arduino Uno
 - Soil Moisture Sensor (analog)
-- 16x2 LCD Display (I2C module, address 0x27)
+- 16x2 LCD Display (I2C module, address 0x20 — MCP23008-based)
 
 ## Wiring Diagram
 
