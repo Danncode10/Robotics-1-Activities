@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE
+.arduino15/
+**/.arduino15/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
