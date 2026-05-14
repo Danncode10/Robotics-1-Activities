@@ -7,7 +7,7 @@
 #define DRY_VALUE 850
 #define WET_VALUE 300
 
-LiquidCrystal_I2C lcd(0x20, 16, 2);
+LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 int readMoisture() { return analogRead(SENSOR_PIN); }
 
